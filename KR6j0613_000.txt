@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說大吉祥陀羅尼經
+#+DATE: 2015-08-30 20:36:18.364920
+#+PROPERTY: JUAN 0
